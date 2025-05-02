@@ -404,4 +404,3 @@ Key Difference:
 ✓ Autoregressive = Predicts next word (great for writing)
 ✓ Bidirectional = Analyzes full context (great for classification/search)
 
-Would you like examples comparing their specific use cases?
