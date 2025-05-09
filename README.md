@@ -404,3 +404,16 @@ Key Difference:
 ✓ Autoregressive = Predicts next word (great for writing)
 ✓ Bidirectional = Analyzes full context (great for classification/search)
 
+```
+Architecture of LLMs
+```
+![image](https://github.com/user-attachments/assets/6ac5b8ae-0aff-4cbd-ab41-ea444c097c6b)
+
+```
+Architecture of generative ai
+
+```
+![image](https://github.com/user-attachments/assets/3bea7aa7-941b-4835-91a3-5fba3411369a)
+
+
+
